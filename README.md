@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student on path to become Softer Developer
 ------------------------------------------
 
-I'm currently in my last year of high school after which I'm heading for a Computer Science degree in Netherlands. I've started programming 1 year ago and it immediately became my passion. Language of choice is Python but also speaking fluently in C, HTML, CSS and SQL.
+TO BE COMPLETED
 
-* 🌍  I'm based in Slovakia
+* 🌍  I'm based in The Netherlands (but from Slovakia) 
 * ✉️  You can contact me at [name.to.nevim@gmail.com](mailto:name.to.nevim@gmail.com)
 * 🚀  I'm currently working on [Web programming](http://https://github.com/To-nevim/To-nevim.github.io)
 * 🧠  I'm learning JavaScript
-* 🤝  I'm open to collaborating on Python projects
+* 🤝  I'm open to collaborating
 * ⚡  Knowledge is power only when you use it
 
 ### Skills
